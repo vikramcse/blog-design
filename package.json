@@ -1,0 +1,26 @@
+{
+  "name": "blog-design",
+  "version": "1.0.0",
+  "description": "A design for my future blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vikramcse/blog-design.git"
+  },
+  "keywords": [],
+  "author": "Vikram <vikramcse.10@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vikramcse/blog-design/issues"
+  },
+  "homepage": "https://github.com/vikramcse/blog-design#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0"
+  }
+}
